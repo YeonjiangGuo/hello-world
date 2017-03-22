@@ -2,4 +2,4 @@
 * akjkj
 abc
 dfajkfdf
-[Baidu](www.baidu.com)
+[Baidu](http://www.baidu.com)
